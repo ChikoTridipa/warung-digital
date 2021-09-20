@@ -17,16 +17,16 @@ Mempertemukan penjual dan pembeli produk digital dalam suatu platform yang memil
 
 ### SWOT
 - Strength
-  - Mempertemukan penjual dan pembeli untuk melakukan transaksi produk digital dengan interaksi yang ramah dan keamanan transaksi yang memadai.
+  > Mempertemukan penjual dan pembeli untuk melakukan transaksi produk digital dengan interaksi yang ramah dan keamanan transaksi yang memadai.
 
 - Weakness
-  - Kurangnya pengetahuan dalam hal back-end dan desain.
+  > Kurangnya pengetahuan dalam hal back-end dan desain.
 
 - Opportunities
-  - Menjadi peluang usaha bagi para penjual produk digital dalam kategori tertentu
+  > Menjadi peluang usaha bagi para penjual produk digital dalam kategori tertentu
 
 - Threat
-  - Dapat menjadi salah satu tempat bagi para cyber crime untuk melakukan tindak penipuan dan kejahatan lainnya.
+  > Dapat menjadi salah satu tempat bagi para cyber crime untuk melakukan tindak penipuan dan kejahatan lainnya.
 
 ### GOALS
 Kemudahan dalam bertransaksi produk digital dan keamanan yang memadai serta meminimalisir berbagai peluang tindak kejahatan internet, diharapkan website ini dapat menjadi salah satu website yang ramai dipakai dan dapat diandalkan bagi para pengguna untuk menjual membeli produk digital.
