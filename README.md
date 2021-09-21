@@ -30,3 +30,6 @@ Mempertemukan penjual dan pembeli produk digital dalam suatu platform yang memil
 
 ### GOALS
 Kemudahan dalam bertransaksi produk digital dan keamanan yang memadai serta meminimalisir berbagai peluang tindak kejahatan internet, diharapkan website ini dapat menjadi salah satu website yang ramai dipakai dan dapat diandalkan bagi para pengguna untuk menjual membeli produk digital.
+
+### Model Konseptual
+![conceptualmodel-hcigroup6](https://i.ibb.co/zh8VDXG/Flowchart-Only-page-0001.jpg)
